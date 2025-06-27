@@ -4,7 +4,7 @@ Welcome to the **BOSSA EDU HUB**, your open-source, AI-powered education platfor
 
 ---
 
-## 📁 Folder Structure (Recommended)
+## 📁 Folder Structure 
 ```
 📦 BOSSA_EDU_BUILD/
 ├── 📘 Notion_HQ_Template/
