@@ -1,0 +1,29 @@
+{
+  "prompts": [
+    {
+      "id": 1,
+      "title": "Introduction to Real Estate",
+      "description": "Generate an introductory lesson for students new to real estate, covering basic concepts and terminology."
+    },
+    {
+      "id": 2,
+      "title": "Understanding Property Valuation",
+      "description": "Create content explaining the methods of property valuation and factors that influence property prices."
+    },
+    {
+      "id": 3,
+      "title": "Real Estate Market Analysis",
+      "description": "Develop a guide on how to conduct a market analysis for real estate investments."
+    },
+    {
+      "id": 4,
+      "title": "Legal Aspects of Real Estate",
+      "description": "Outline the legal considerations and regulations that students must be aware of in real estate transactions."
+    },
+    {
+      "id": 5,
+      "title": "Sustainable Real Estate Practices",
+      "description": "Generate content on sustainable practices in real estate development and management."
+    }
+  ]
+}

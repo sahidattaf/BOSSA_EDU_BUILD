@@ -1,0 +1,34 @@
+{
+  "prompts": [
+    {
+      "id": 1,
+      "title": "Understanding Real Estate Basics",
+      "description": "Generate content that explains the fundamental concepts of real estate, including property types, market dynamics, and investment strategies."
+    },
+    {
+      "id": 2,
+      "title": "Real Estate Market Analysis",
+      "description": "Create a detailed analysis of current real estate market trends, including pricing, demand, and economic factors influencing the market."
+    },
+    {
+      "id": 3,
+      "title": "Property Valuation Techniques",
+      "description": "Outline various methods for valuing properties, such as comparative market analysis, income approach, and cost approach."
+    },
+    {
+      "id": 4,
+      "title": "Real Estate Investment Strategies",
+      "description": "Discuss different investment strategies in real estate, including buy-and-hold, flipping, and rental properties."
+    },
+    {
+      "id": 5,
+      "title": "Legal Aspects of Real Estate",
+      "description": "Provide an overview of the legal considerations in real estate transactions, including contracts, disclosures, and zoning laws."
+    },
+    {
+      "id": 6,
+      "title": "Sustainable Real Estate Practices",
+      "description": "Generate content on sustainable practices in real estate development and management, focusing on environmental impact and energy efficiency."
+    }
+  ]
+}

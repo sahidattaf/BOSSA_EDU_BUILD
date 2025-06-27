@@ -1,0 +1,36 @@
+{
+  "prompts": [
+    {
+      "id": "hospitality_intro",
+      "prompt": "Generate an introduction to the hospitality industry, covering its importance and key sectors."
+    },
+    {
+      "id": "customer_service",
+      "prompt": "Create a guide on best practices for customer service in the hospitality sector."
+    },
+    {
+      "id": "hospitality_trends",
+      "prompt": "List and explain the current trends in the hospitality industry."
+    },
+    {
+      "id": "event_management",
+      "prompt": "Outline the steps involved in planning and executing a successful event in hospitality."
+    },
+    {
+      "id": "hospitality_marketing",
+      "prompt": "Develop a marketing strategy for a new hotel opening."
+    },
+    {
+      "id": "sustainability_in_hospitality",
+      "prompt": "Discuss the importance of sustainability practices in the hospitality industry."
+    },
+    {
+      "id": "career_paths",
+      "prompt": "Describe various career paths available in the hospitality sector."
+    },
+    {
+      "id": "cultural_awareness",
+      "prompt": "Explain the significance of cultural awareness in hospitality service."
+    }
+  ]
+}
